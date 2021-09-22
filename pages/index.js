@@ -6,6 +6,8 @@ import LargeCard from '../components/LargeCard'
 import MediumCard from '../components/MediumCard'
 import SmallCard from '../components/SmallCard'
 
+//https://airbnb-master.vercel.app/
+
 export default function Home({exploreData, cardsData}) {
   return (
     <div className="">
